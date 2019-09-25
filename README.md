@@ -1,2 +1,5 @@
 # uts-iclr2020
-ICLR2020 UTS Submission
+
+## How to run?
+
+    python3 demo.py
